@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Jan31UploadTestProject
+  gitServerName: GH_IBM
+  gitUrl: https://github.com/prateek-nagar-IBM
+  gitUsername: prateek-nagar-IBM
+  gitBranch: main
